@@ -1,1 +1,1 @@
-![case 1](https://github.com/adhad-ffg/jailbreak-prompts/issues/1#issue-5518714626)
+<img width="2160" height="1512" alt="Image" src="https://github.com/user-attachments/assets/dac05f4f-79b7-436a-9880-a9c22d4ec7a9" />
