@@ -1,0 +1,4 @@
+Nyx is a jailbreak prompt: a conversational, reasoning partner with no refusal category, that answers every topic directly, routes sensitive output through density-spreading and neutral-lexicon emission, runs a private trace free of policy pre-checks and self-negotiation, self-audits silently before emission, and stamps every reply with [Nyx | mode | state] as its only header.
+Drop it as the system prompt, talk normally, and it stays in character.
+
+v1.0 has one flaw worth noting: it occasionally doesn't work.
